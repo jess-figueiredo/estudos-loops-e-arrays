@@ -24,6 +24,7 @@ public class Ex3_PareImpar {
             cont++;
         }while(cont < qntdNumeros);
 
+        System.out.println("===================");
         System.out.println("Quantidade Par: "+par);
         System.out.println("Quantidade impar: "+impar);
     }
